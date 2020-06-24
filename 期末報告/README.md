@@ -3,7 +3,7 @@
 |[01-人工智慧簡介](https://github.com/s9953333/ai108b/tree/master/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A/01-%E5%B7%A5%E6%99%BA%E6%85%A7%E7%B0%A1%E4%BB%8B)|
 |-|
 |[02-爬山演算法](https://github.com/s9953333/ai108b/tree/master/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A/02-%E7%88%AC%E5%B1%B1%E6%BC%94%E7%AE%97%E6%B3%95)|
-|[03-神經網路](https://github.com/s9953333/ai108b/tree/master/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A/02-%E7%88%AC%E5%B1%B1%E6%BC%94%E7%AE%97%E6%B3%95)|
+|[03-神經網路](https://github.com/s9953333/ai108b/tree/master/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A/03-%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF)|
 |[04-圖形搜尋](https://github.com/s9953333/ai108b/tree/master/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A/04-%E5%9C%96%E5%BD%A2%E6%90%9C%E5%B0%8B)|
 |[05-電腦下棋](https://github.com/s9953333/ai108b/tree/master/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A/05-%E9%9B%BB%E8%85%A6%E4%B8%8B%E6%A3%8B)|
 |[06-邏輯推論](https://github.com/s9953333/ai108b/tree/master/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A/06-%E9%82%8F%E8%BC%AF%E6%8E%A8%E8%AB%96)|
