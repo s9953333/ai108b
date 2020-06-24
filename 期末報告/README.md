@@ -1,6 +1,6 @@
 # 期末報告--AI學習筆記
 ## 主題
-|[01-工智慧簡介](https://github.com/s9953333/ai108b/blob/master/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A/01-%E5%B7%A5%E6%99%BA%E6%85%A7%E7%B0%A1%E4%BB%8B/01-%E5%B7%A5%E6%99%BA%E6%85%A7%E7%B0%A1%E4%BB%8B.md)|
+|[01-工智慧簡介](https://github.com/s9953333/ai108b/tree/master/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A/01-%E5%B7%A5%E6%99%BA%E6%85%A7%E7%B0%A1%E4%BB%8B)|
 |-|
 |[02-爬山演算法]()|
 |[03-神經網路]()|
